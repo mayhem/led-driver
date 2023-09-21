@@ -1,0 +1,5 @@
+fp-info-cache
+gerbers
+*.lck
+*_prl
+*.zip

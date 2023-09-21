@@ -1,2 +1,3 @@
 # led-driver
-SCL2004 based LED driver
+
+KiCAD schematics/board layout for a SCL2004 based LED driver
